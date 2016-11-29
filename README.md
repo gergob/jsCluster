@@ -13,9 +13,12 @@ npm install
 Start: `node serverSingle.js`
 
 2. Clustering with the `cluster` module.  
-Start: `node serverCluster.js`
+Start: `node serverCluster.js`  
 
-3. Clustering with the PM2 process manager.  
+3. Clustering with the `cluster` module, with process respawning.  
+Start: `node serverClusterRespawn.js`  
+
+4. Clustering with the PM2 process manager.  
 Install: `npm install pm2@latest -g`  
 Start: `pm2 start serverSingle.js -i max`  
 Stop: `pm2 stop all`  
