@@ -1,7 +1,11 @@
 # jsCluster
 Cluster Implementation Variations in Node
 
-### Installing dependencies 
+### Related Tech Article
+
+You can read a more detailed explanation of the code and clustering on [Scaling-Clustering In Node.js](http://dealwithjs.io/scaling-clustering-in-node-js/)
+
+### Installing dependencies
 
 ```
 npm install
