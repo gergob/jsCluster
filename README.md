@@ -3,7 +3,7 @@ Cluster Implementation Variations in Node
 
 ### Related Tech Article
 
-You can read a more detailed explanation of the code and clustering on [Scaling-Clustering In Node.js](http://dealwithjs.io/scaling-clustering-in-node-js/)
+You can read more detailed explanation of the source code and clustering in node in the article:  [Scaling-Clustering In Node.js](http://dealwithjs.io/scaling-clustering-in-node-js/)
 
 ### Installing dependencies
 
